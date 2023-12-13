@@ -1,12 +1,6 @@
 import 'package:autores/model/autorModel.dart';
 import 'package:flutter/material.dart';
 
-// class FormAutor extends StatelessWidget {
-//   const FormAutor({super.key});
-
-//   @override
-//   State<FormAutor> createState() => _FormAutorState();
-// }
 class FormAutor extends StatefulWidget {
   const FormAutor({Key? key}) : super(key: key);
 
