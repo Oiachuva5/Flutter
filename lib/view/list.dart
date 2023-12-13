@@ -16,8 +16,8 @@ class _ListAutorState extends State<ListAutor> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Color.fromARGB(51, 38, 54, 224),
-        title: const Text('Lista de autores'),
+        backgroundColor: Color.fromARGB(255, 167, 84, 84),
+        title: const Text('Lista negra'),
       ),
       body: ListView.builder(
         itemCount: widget._autores.length,
